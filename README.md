@@ -1,5 +1,5 @@
 
-# AstroSpect: Photometric Redshift Estimation using CNNs
+# AstroSpect: Photometric Redshift Estimation from Multi-Band Galaxy Images using CNNs
 A lightweight Convolutional Neural Network (CNN) to estimate photometric redshifts (photo-z) directly from multi-band galaxy images, trained on SDSS DR12 data.
 
 ![Example Input Galaxy Bands](https://github.com/anshpman/AstroSpect-Photometric-Redshift-Estimation-for-Celestial-Bodies/blob/a03dcfcb53c804b491b46d2acbefb5a0ddd30fa8/Galaxy%20bands.png)
