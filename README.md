@@ -56,8 +56,8 @@ The model's performance was evaluated on the SDSS DR12 test set. Key findings sh
 
 This demonstrates the model's ability to generalize well and handle the natural diversity in astronomical data. Preserving the full data distribution, including outliers, proved critical for robustness.
 
-![Predicted vs Actual Redshift (Clipped Data)](https://github.com/anshpman/AstroSpect-Photometric-Redshift-Estimation-for-Celestial-Bodies/blob/a03dcfcb53c804b491b46d2acbefb5a0ddd30fa8/clipped.png)
-![Predicted vs Actual Redshift (Full Data)](https://github.com/anshpman/AstroSpect-Photometric-Redshift-Estimation-for-Celestial-Bodies/blob/a03dcfcb53c804b491b46d2acbefb5a0ddd30fa8/whole%20dataset.png)
+![Predicted vs Actual Redshift (Clipped Data And Unclipped Data)](https://github.com/anshpman/AstroSpect-Photometric-Redshift-Estimation-for-Celestial-Bodies/blob/d0949a57fa7441ccfbec61dc015f59bc7aff5f93/ClippedAndUnclipped.png)
+
 
 **Performance Comparison: Full vs. Clipped Dataset**
 
